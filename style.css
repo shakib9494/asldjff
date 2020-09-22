@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.carousel-item img{
+	width: 400px;
+	height: 500px;
+}
+.main-heading img{
+	width: 540px;
+	height: 260px;
+}
